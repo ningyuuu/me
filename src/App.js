@@ -11,7 +11,7 @@ class App extends Component {
                 <Layout>
                     <Header style={{ position: 'fixed', width: '100%' }}>
                         <Menu theme="light" mode="horizontal" defaultSelectedKeys={['1']}>
-                            <Menu.Item key="1">About Me</Menu.Item>
+                            <Menu.Item key="1">Im a cool boy</Menu.Item>
                             <Menu.Item key="2">Projects</Menu.Item>
                             <Menu.Item key="3">Resume</Menu.Item>
                             <Menu.Item key="4">Contact Me</Menu.Item>
